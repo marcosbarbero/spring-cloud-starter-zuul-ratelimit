@@ -36,7 +36,7 @@
         <nexus-staging-maven-plugin.version>1.6.8</nexus-staging-maven-plugin.version>
         <jacoco.version>0.8.7</jacoco.version>
         <coveralls-maven-plugin.version>4.3.0</coveralls-maven-plugin.version>
-        <spring-cloud.version>Hoxton.SR11</spring-cloud.version>
+        <spring-cloud.version>Hoxton.SR12</spring-cloud.version>
         <awaitility.version>4.0.2</awaitility.version>
 
         <jacoco.it.execution.data.file>${project.build.directory}/coverage-reports/jacoco.exec</jacoco.it.execution.data.file>
